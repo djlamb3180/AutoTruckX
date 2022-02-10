@@ -5,11 +5,14 @@ from torch import Tensor
 from typing import Optional, Tuple, List, Callable, Any
 import torch.nn.functional as F
 import torchvision 
-from torchvision.models import googlenet, resent18, resnet34, resnet50, resnet101, resnet152
+from torchvision.models import resnet101
 
 #import resnet18
 #import resnet50
 #import googlenet
+#import resnet34
+#import resnet101
+#import resnet152
 
 
 
