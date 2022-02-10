@@ -9,7 +9,9 @@ csv_src = "C:\\Users\\DJL57\\Documents\\dataset\\driving_log.csv"
 net = "GoogLeNet"
 #net = "TruckResnet18"
 #net = "TruckResnet50"
-
+#net = "TruckResnet101"
+#net = "TruckResnet34"
+#net = "TruckResnet152"
 
 # Training
 device = torch.device('cuda')
