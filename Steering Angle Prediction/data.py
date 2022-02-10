@@ -48,7 +48,7 @@ class TruckDataset(Dataset):
             size = (224, 224)
         elif model_name == "TruckResnet101":
             size = (224, 224)
-        elif model_name == "TruckResnet151":
+        elif model_name == "TruckResnet152":
             size = (224, 224)
         elif model_name == "GoogLeNet":
             size = (224, 224)
