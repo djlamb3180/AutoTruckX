@@ -23,6 +23,9 @@ Input Dimension Validation:
 GoogLeNet: N x 3 x 224 x 224 -> N x 1
 TruckResnet18: N x 3 x 224 x 224 -> N x 1
 TruckResnet50: N x 3 x 224 x 224 -> N x 1
+TruckResnet34: N x 3 x 224 x 224 -> N x 1
+TruckResnet101: N x 3 x 224 x 224 -> N x 1
+TruckResnet152: N x 3 x 224 x 224 -> N x 1
 
 """
 
