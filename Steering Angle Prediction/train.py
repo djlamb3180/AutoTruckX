@@ -52,7 +52,7 @@ def train(cont=False):
         model = TruckResnet50()
     elif net == "TruckResnet101":
         model = TruckResnet101()
-    elif net == "TruckResnet151":
+    elif net == "TruckResnet152":
         model = TruckResnet152()    
     elif net == "GoogLeNet":
         model = GoogLeNet()
